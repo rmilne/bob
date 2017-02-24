@@ -1,2 +1,2 @@
 # bob
-Scrape winnipeg bobfm songs into a db
+Scrape winnipeg bobfm songs into a sqlite3 db

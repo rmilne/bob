@@ -1,0 +1,11 @@
+http://www.iheartradio.ca/99-9-bob-fm/99-9-bob-fm-1.1748024/recently-played-1.1748025?mode=history&ot=ajax.ot
+
+
+bob project creation notes:
+New Scrapy project 'bob', using template directory '/Users/rmilne/src/imagingapi/ebvirtualenv/lib/python2.7/site-packages/scrapy/templates/project', created in:
+    /Users/rmilne/src/bob/bob
+
+    You can start your first spider with:
+        cd bob
+	    scrapy genspider example example.com
+
